@@ -1,5 +1,0 @@
-{{#user}
-Name: Azhad Nasim
-Skills: HTML, CSS, JS, React.js
-Email: azhadnasim.786@gmail.com
-{{/user}}
